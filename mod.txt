@@ -1,0 +1,9 @@
+{
+    "name": "ads",
+    "hooks": [
+        {
+            "hook_id": "lib/units/beings/player/states/playerstandard",
+            "script_path": "ads.lua"
+        }
+    ]
+}
